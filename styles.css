@@ -1,0 +1,79 @@
+.Title{
+    background-color: #F1ECCE;
+    color: #1B5299;
+    font-family: 'Mate SC', serif;
+    font-size: xx-large;
+    font-weight: bold;
+    border: 3px solid #694D75;
+    width: 357px;
+    height: auto;
+    padding-left: 5px;
+}
+
+.QuoteCard{
+    font-family: 'Mate SC', serif;
+    background-color: #9FC2CC;
+    width: 750px;
+    height: auto;
+    border-radius: 10px;
+    position: absolute;
+    left: 25%;
+    top: 30%;
+    padding-bottom: 15px;
+}
+
+.fa {
+    padding: 15px;
+    position: relative;
+    top: 8px;
+    left: 8px;
+    font-size: 30px;
+    border-radius: 20px;
+    width: 25px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 8px;
+  }
+  
+
+.fa-twitter {
+    background: #2464b8;
+    color: white;
+  }
+
+body{
+    background-color: #F1ECCE;
+    color: #331832;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: right;
+    padding-right: 50px;
+}
+
+button{
+    font-family: 'Mate SC', serif;
+    background-color: #2464b8;
+    border: 3px solid #9FC2CC;
+    color: #331832;
+    border-radius: 21px;
+    font-size: large;
+    font-weight: 900;
+    position: relative;
+    width: 80px;
+    height: 45px;
+    left: 550px;
+}
+
+button:hover{
+    background-color: #2970ce;
+}
+
+button:active{
+    background-color: #2464b8;
+}
